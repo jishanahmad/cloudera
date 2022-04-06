@@ -10,3 +10,6 @@
 [IPA_Ovewview](../documents/mod05_ex01__touring_freeipa.pdf)
 * Free IPA set password policy
 [IPA_Password_policy](../documents/mod05_ex02__setting_policies_for_ipa.pdf)
+
+## Plugable Authentication Modules(PAM)
+* [Basic of PAM](../documents/mod05_ex03__reviewing_plugable_authentication_modules.pdf)
