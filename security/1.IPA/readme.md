@@ -13,3 +13,9 @@
 
 ## Plugable Authentication Modules(PAM)
 * [Basic of PAM](../documents/mod05_ex03__reviewing_plugable_authentication_modules.pdf)
+
+## Configure cloudera manager to use PAM
+* [configure Cloudera Manager to use PAM to connect to LDAP](../documents/)
+
+## Configuring_cloudera_manager_for_ldap
+* [Configuring_cloudera_manager_for_ldap](../documents/mod08_ex01__configuring_cloudera_manager_for_ldap.pdf)
