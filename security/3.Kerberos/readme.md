@@ -96,6 +96,11 @@ beeline -u "jdbc:hive2://localhost:10000/default”
 beeline -u "jdbc:hive2://localhost:10000/default;principal=hive/_HIVE@EXAMPLE.COM”
 ```
 
+## Exercise
+* [introducing the Kerberos Command Line Interface (CLI)](../documents/mod18_ex01__using_kerberos_cli.pdf)
+* [use Cloudera Manager’s Kerberos wizard to deploy Kerberos](../documents/mod18_ex02__deploying_kerberos.pdf)
+* [Verify Kerberos and SASL in CM](../documents/mod18_ex03__verify_kerberos_and_sasl.pdf)
+* 
 
 
 
