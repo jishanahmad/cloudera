@@ -6,4 +6,6 @@
    * Legacy CDH users set Hive policies which automatically linked Hive permissions to HDFS ACL's. 
    * This was especially convenient for external table data used by Spark or Hive. 
    * Previously, Ranger managed Hive and HDFS policies separately, you had to set both. 
-   * Ranger RMS replicates the CDH capability, setting a Hive policy will make changes in HDFS. 
+   * Ranger RMS replicates the CDH capability, setting a Hive policy will make changes in HDFS.
+* [Configure Ranger policies with HDFS,Hive,HBase](.././documents/sg13_ranger_policy.pptx)
+* 
